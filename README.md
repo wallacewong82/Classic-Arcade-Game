@@ -1,7 +1,20 @@
-frontend-nanodegree-arcade-game
-===============================
+# Classic Arcade Game Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+This README provides the instructions to the Classic Arcade Game project for Udacity Front End Web Developer Nanodegree course.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
-# Classic-Arcade-Game
+
+
+## Rules
+The application is a simplified replica of the Frogger game, where the player needs to take his character across the road which has many enemies dashing across it. If the player hits an enemy, he/she will have the game reset, indicating a loss. If the player reaches the opposite side of the road, the game resets as well, indicating a victory. 
+
+## Setup:
+1. Download the files from GitHub repository.
+
+
+2. Open the `index.html` file using your favourite browser.
+
+
+3. Game will start immediately.
+
+## Notes, credits and licensing:
+Credits go to Breno Polanski, whose project I referenced from. 
